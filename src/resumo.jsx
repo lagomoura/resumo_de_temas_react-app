@@ -24,3 +24,9 @@
 
 const elemento = <h1>Eso es JSX</h1>;
 
+
+//? Los componentes en forma te elementosHTML en JSX deben empezar unc ona letra mayuscula. Ej. <Boton> <Pantalla>
+
+//? Se puede agregar atributos a los elementos JSX (citados arriba) clases, Ids. Pero alguno de estos, se escribe de forma distinta. 
+
+//. class = className
